@@ -5,14 +5,12 @@ print(5 + 3)
 print(5 - 3)
 print(5 * 3)
 print(5 / 2)
-
 print("-----------------------------")
 
 #modulos
 print(10 % 3)
 print(17 // 3)
 print(5 ** 2)
-
 print("-----------------------------")
 
 
@@ -30,7 +28,6 @@ print("Hola " * (2**2))
 #uso de variable con operaciones
 my_float = 2.5 * 2
 print("Hola "* int(my_float))
-
 print("-----------------------------")
 
 
